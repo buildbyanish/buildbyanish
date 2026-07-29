@@ -19,17 +19,12 @@
 
 ## 🧠 About Me
 
-```python
-class AnishKumar:
-    def __init__(self):
-        self.role = "Agentic AI Engineer"
-        self.focus = ["Multi-Agent Systems", "RAG Pipelines", "LLM Orchestration"]
-        self.stack = ["LangGraph", "LangChain", "CrewAI", "Python"]
-        self.currently_building = "production-grade AI agents that actually ship"
+I'm an **Agentic AI Engineer** who designs and ships multi-agent systems that go beyond demos — research assistants, healthcare triage tools, legal document reviewers, and more. My work sits at the intersection of **RAG pipelines**, **agent orchestration**, and **clean production engineering**.
 
-    def say_hi(self):
-        return "Let's build something intelligent together 🚀"
-```
+- 🔭 Currently building agentic pipelines with **LangGraph**, **CrewAI**, and **LangChain**
+- 🧩 Specialize in breaking down complex workflows into cooperating agent roles (Planner, Researcher, Reviewer, Risk-Flagger...)
+- 📚 Deep interest in retrieval-augmented generation, vector search, and evaluation of LLM-driven systems
+- 🎯 Goal: build AI agents that are reliable enough to trust in production, not just impressive in a demo
 
 <br/>
 
@@ -37,14 +32,14 @@ class AnishKumar:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+| Category | Tools |
+|---|---|
+| 🤖 **Agentic AI** | LangGraph · LangChain · CrewAI · Ollama |
+| 🔎 **RAG & Retrieval** | ChromaDB · Semantic Search · Embeddings |
+| 🐍 **Languages** | Python · Java |
+| 🌐 **Backend** | Spring Boot · REST APIs · JPA / JDBC |
+| 🗄️ **Databases** | MySQL |
+| 🎨 **Interfaces** | Streamlit |
 
 </div>
 
