@@ -91,42 +91,6 @@ I'm an **Agentic AI Engineer** who designs and ships multi-agent systems that go
 
 <br/>
 
-## 🎓 Certifications & Training
-
-<div align="center">
-
-![Networking Virtual Internship](https://img.shields.io/badge/Networking_Internship_%C2%B7_Juniper-8E7CFF?style=for-the-badge&logoColor=white)
-![Data Science Master](https://img.shields.io/badge/Data_Science_Master_%C2%B7_Altair-54DCEB?style=for-the-badge&logoColor=070A16&labelColor=54DCEB)
-![Zero Trust Cloud Security](https://img.shields.io/badge/Zero_Trust_Cloud_Security_%C2%B7_Zscaler-8E7CFF?style=for-the-badge&logoColor=white)
-![AI--ML Virtual Internship](https://img.shields.io/badge/AI--ML_Internship_%C2%B7_Google-54DCEB?style=for-the-badge&logoColor=070A16&labelColor=54DCEB)
-![Generative AI Fundamentals](https://img.shields.io/badge/Generative_AI_Fundamentals-8E7CFF?style=for-the-badge&logoColor=white)
-![LangChain for LLM Apps](https://img.shields.io/badge/LangChain_for_LLM_Apps-54DCEB?style=for-the-badge&logoColor=070A16&labelColor=54DCEB)
-![Agentic AI Fundamentals](https://img.shields.io/badge/Agentic_AI_Fundamentals-8E7CFF?style=for-the-badge&logoColor=white)
-![Prompt Engineering for GenAI](https://img.shields.io/badge/Prompt_Engineering_for_GenAI-54DCEB?style=for-the-badge&logoColor=070A16&labelColor=54DCEB)
-![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS_Cloud_Practitioner-8E7CFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python Programming Certification](https://img.shields.io/badge/Python_Programming_Cert-54DCEB?style=for-the-badge&logo=python&logoColor=070A16&labelColor=54DCEB)
-
-</div>
-
-<br/>
-
-## 💼 Internship Experience
-
-<div align="center">
-
-| Role | Organization | Duration |
-|---|---|---|
-| 🔗 **Machine Learning Intern** | Adventure Technology Solutions Pvt. Ltd. | Feb – Mar 2026 |
-| 📊 **Data Analytics Intern** | Uptricks Services Pvt. Ltd. | Oct – Dec 2025 |
-| 🤖 **AI-ML Virtual Intern** | Google for Developers | Jul – Sep 2025 |
-| 🔒 **Zero Trust Cloud Security Intern** | Zscaler · AICTE EduSkills | Jul – Sep 2024 |
-| 📈 **Data Science Intern** | Altair · AICTE EduSkills | Oct – Dec 2024 |
-| 🌐 **Networking Intern** | Juniper Networks · AICTE EduSkills | Jul – Sep 2024 |
-
-</div>
-
-<br/>
-
 ## 💼 Internships
 
 <div align="center">
@@ -270,7 +234,7 @@ Healthcare Knowledge & Triage Assistant built with RAG (Retrieval-Augmented Gene
 <td width="50%" valign="top">
 
 ### [CrewAI-Research-System](https://github.com/buildbyanish/CrewAI-Research-System)
-A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB, and Streamlit. It uses Planner, Researcher, and Writer agents to generate structured research reports by combining Retrieval-Augmented Generation (RAG) over local documents with web search, enabling offline-capable and source-cited AI research
+A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB, and Streamlit. It uses Planner, Researcher, and Writer agents to generate structured research reports by combining Retrieval-Augmented Generation (RAG) over local documents with web search, enabling offline-capable and source-cited AI research.
 
 `Python`
 
@@ -280,7 +244,7 @@ A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB,
 <td width="50%" valign="top">
 
 ### [Java-Swing-Player-Management](https://github.com/buildbyanish/Java-Swing-Player-Management)
-A Java Swing-based Player Management System that uses MySQL and JDBC to perform CRUD operations. The application enables users to add, view, update, and delete player records through an intuitive graphical interface, demonstrating desktop application development, database connectivity, and efficient data management.
+A Java Swing-based Player Management System that uses MySQL and JDBC to perform CRUD operations. The application enables users to add, view, update, and delete player records through an intuitive graphical interface.
 
 `Java`
 
@@ -288,7 +252,7 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 <td width="50%" valign="top">
 
 ### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
-## About  This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
+A Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples — a beginner-friendly overview for aspiring data scientists.
 
 `Jupyter Notebook`
 
@@ -298,15 +262,15 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 <td width="50%" valign="top">
 
 ### [Machine-learning-with-block-chain](https://github.com/buildbyanish/Machine-learning-with-block-chain)
-A machine learning project integrated with blockchain technology to ensure secure, transparent, and tamper-proof data management. It combines predictive analytics with decentralized data storage, improving data integrity, trust, and security for real-world applications such as fraud detection, healthcare, and financial systems.
+A machine learning project integrated with blockchain technology to ensure secure, transparent, tamper-proof data management — combining predictive analytics with decentralized data storage.
 
-
+`Python`
 
 </td>
 <td width="50%" valign="top">
 
 ### [SpringBootFlightBooking](https://github.com/buildbyanish/SpringBootFlightBooking)
-A Flight Booking System developed using Spring Boot that enables users to search flights, book tickets, view reservations, and cancel bookings. The application uses REST APIs, Spring Data JPA, and MySQL with a layered architecture, providing efficient data management, scalability, and a clean backend design for flight reservation operations.
+A Flight Booking System built with Spring Boot that enables users to search flights, book tickets, view reservations, and cancel bookings via REST APIs, Spring Data JPA, and MySQL.
 
 `Java`
 
