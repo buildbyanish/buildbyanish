@@ -234,7 +234,7 @@ Healthcare Knowledge & Triage Assistant built with RAG (Retrieval-Augmented Gene
 <td width="50%" valign="top">
 
 ### [CrewAI-Research-System](https://github.com/buildbyanish/CrewAI-Research-System)
-A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB, and Streamlit. It uses Planner, Researcher, and Writer agents to generate structured research reports by combining Retrieval-Augmented Generation (RAG) over local documents with web search, enabling offline-capable and source-cited AI research.
+A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB, and Streamlit. It uses Planner, Researcher, and Writer agents to generate structured research reports by combining Retrieval-Augmented Generation (RAG) over local documents with web search, enabling offline-capable and source-cited AI research
 
 `Python`
 
@@ -244,7 +244,7 @@ A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB,
 <td width="50%" valign="top">
 
 ### [Java-Swing-Player-Management](https://github.com/buildbyanish/Java-Swing-Player-Management)
-A Java Swing-based Player Management System that uses MySQL and JDBC to perform CRUD operations. The application enables users to add, view, update, and delete player records through an intuitive graphical interface.
+A Java Swing-based Player Management System that uses MySQL and JDBC to perform CRUD operations. The application enables users to add, view, update, and delete player records through an intuitive graphical interface, demonstrating desktop application development, database connectivity, and efficient data management.
 
 `Java`
 
@@ -252,7 +252,7 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 <td width="50%" valign="top">
 
 ### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
-A Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples — a beginner-friendly overview for aspiring data scientists.
+## About  This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
 
 `Jupyter Notebook`
 
@@ -262,15 +262,15 @@ A Jupyter Notebook introducing the Data Science ecosystem, including popular pro
 <td width="50%" valign="top">
 
 ### [Machine-learning-with-block-chain](https://github.com/buildbyanish/Machine-learning-with-block-chain)
-A machine learning project integrated with blockchain technology to ensure secure, transparent, tamper-proof data management — combining predictive analytics with decentralized data storage.
+A machine learning project integrated with blockchain technology to ensure secure, transparent, and tamper-proof data management. It combines predictive analytics with decentralized data storage, improving data integrity, trust, and security for real-world applications such as fraud detection, healthcare, and financial systems.
 
-`Python`
+
 
 </td>
 <td width="50%" valign="top">
 
 ### [SpringBootFlightBooking](https://github.com/buildbyanish/SpringBootFlightBooking)
-A Flight Booking System built with Spring Boot that enables users to search flights, book tickets, view reservations, and cancel bookings via REST APIs, Spring Data JPA, and MySQL.
+A Flight Booking System developed using Spring Boot that enables users to search flights, book tickets, view reservations, and cancel bookings. The application uses REST APIs, Spring Data JPA, and MySQL with a layered architecture, providing efficient data management, scalability, and a clean backend design for flight reservation operations.
 
 `Java`
 
