@@ -18,8 +18,9 @@
 
 ## 🧠 About Me
 
-I'm an **Agentic AI Engineer** who designs and ships multi-agent systems that go beyond demos — research assistants, healthcare triage tools, legal document reviewers, and more. My work sits at the intersection of **RAG pipelines**, **agent orchestration**, and **clean production engineering**.
+I'm a **results-driven Agentic AI Engineer with 2+ years of experience** designing, developing, and deploying intelligent, production-grade multi-agent systems that go beyond demos — research assistants, healthcare triage tools, legal document reviewers, and more. My work sits at the intersection of **RAG pipelines**, **agent orchestration**, and **clean production engineering**.
 
+- 💼 **2+ years of experience** building and deploying Agentic AI solutions for enterprise applications, with hands-on expertise in multi-agent systems, RAG pipelines, AI workflow orchestration, and enterprise API integrations
 - 🔭 Currently building agentic pipelines with **LangGraph**, **CrewAI**, and **LangChain**
 - 🧩 Specialize in breaking down complex workflows into cooperating agent roles (Planner, Researcher, Reviewer, Risk-Flagger...)
 - 📚 Deep interest in retrieval-augmented generation, vector search, and evaluation of LLM-driven systems
@@ -91,7 +92,29 @@ I'm an **Agentic AI Engineer** who designs and ships multi-agent systems that go
 
 <br/>
 
-## 💼 Internships
+## 💼 Professional Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**Agentic AI Engineer**
+HCL Tech · Chennai, India
+`June 2024 – Present`
+
+Designing and deploying multi-agent AI systems (CrewAI, LangGraph, LangChain) for digital marketing and MarTech platforms — covering RAG pipelines, LLM integration, agent memory, HITL workflows, and evaluation frameworks.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🎓 Internships
 
 <div align="center">
 
@@ -252,7 +275,7 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 <td width="50%" valign="top">
 
 ### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
-## About  This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
+This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
 
 `Jupyter Notebook`
 
