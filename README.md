@@ -275,7 +275,7 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 <td width="50%" valign="top">
 
 ### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
-This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
+## About  This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
 
 `Jupyter Notebook`
 
