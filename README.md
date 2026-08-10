@@ -230,12 +230,22 @@ Amazon Web Services
 <tr>
 <td width="50%" valign="top">
 
+### [senior-ai-engineer-anish](https://github.com/buildbyanish/senior-ai-engineer-anish)
+No description yet.
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
 ### [FinGenius-AI-Banking-Knowledge-Assistant](https://github.com/buildbyanish/FinGenius-AI-Banking-Knowledge-Assistant)
 An Agentic AI-powered Banking Knowledge Assistant using LangChain, LangGraph, CrewAI, RAG, ChromaDB, Ollama, and FastAPI.
 
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Legaldociq-AI](https://github.com/buildbyanish/Legaldociq-AI)
@@ -244,8 +254,6 @@ Multi-agent contract review assistant (Reviewer -> Risk-Flagger -> Summarizer) t
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mediassist-ai-healthcare-assistant](https://github.com/buildbyanish/mediassist-ai-healthcare-assistant)
@@ -254,6 +262,8 @@ Healthcare Knowledge & Triage Assistant built with RAG (Retrieval-Augmented Gene
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [CrewAI-Research-System](https://github.com/buildbyanish/CrewAI-Research-System)
@@ -262,8 +272,6 @@ A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB,
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Java-Swing-Player-Management](https://github.com/buildbyanish/Java-Swing-Player-Management)
@@ -272,6 +280,8 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 `Java`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
@@ -280,22 +290,12 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 `Jupyter Notebook`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Machine-learning-with-block-chain](https://github.com/buildbyanish/Machine-learning-with-block-chain)
 A machine learning project integrated with blockchain technology to ensure secure, transparent, and tamper-proof data management. It combines predictive analytics with decentralized data storage, improving data integrity, trust, and security for real-world applications such as fraud detection, healthcare, and financial systems.
 
 
-
-</td>
-<td width="50%" valign="top">
-
-### [SpringBootFlightBooking](https://github.com/buildbyanish/SpringBootFlightBooking)
-A Flight Booking System developed using Spring Boot that enables users to search flights, book tickets, view reservations, and cancel bookings. The application uses REST APIs, Spring Data JPA, and MySQL with a layered architecture, providing efficient data management, scalability, and a clean backend design for flight reservation operations.
-
-`Java`
 
 </td>
 </tr>
