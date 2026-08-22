@@ -230,8 +230,8 @@ Amazon Web Services
 <tr>
 <td width="50%" valign="top">
 
-### [senior-ai-engineer-anish](https://github.com/buildbyanish/senior-ai-engineer-anish)
-No description yet.
+### [Enterprise-RAG-Q-A-System-Azure-OpenAI-AI-Search](https://github.com/buildbyanish/Enterprise-RAG-Q-A-System-Azure-OpenAI-AI-Search)
+Enterprise RAG Q&A system with Azure OpenAI + Azure AI Search — grounded answers, citation validation, and fixes for 6 real-world retrieval failure modes (versioning conflicts, hallucination, ambiguous queries, and more)
 
 `Python`
 
