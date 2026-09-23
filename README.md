@@ -292,10 +292,10 @@ A Java Swing-based Player Management System that uses MySQL and JDBC to perform 
 </td>
 <td width="50%" valign="top">
 
-### [Data-Science-Tools-and-Ecosystem](https://github.com/buildbyanish/Data-Science-Tools-and-Ecosystem)
-About  This repository contains a Jupyter Notebook introducing the Data Science ecosystem, including popular programming languages, libraries, tools, and basic Python examples. It provides a beginner-friendly overview of essential concepts and serves as a practical learning resource for students and aspiring data scientists.
+### [Machine-learning-with-block-chain](https://github.com/buildbyanish/Machine-learning-with-block-chain)
+A machine learning project integrated with blockchain technology to ensure secure, transparent, and tamper-proof data management. It combines predictive analytics with decentralized data storage, improving data integrity, trust, and security for real-world applications such as fraud detection, healthcare, and financial systems.
 
-`Jupyter Notebook`
+
 
 </td>
 </tr>
