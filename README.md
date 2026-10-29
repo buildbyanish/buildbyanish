@@ -230,12 +230,22 @@ Amazon Web Services
 <tr>
 <td width="50%" valign="top">
 
+### [smart-helpdesk-agent](https://github.com/buildbyanish/smart-helpdesk-agent)
+AI powered HR and IT helpdesk agent with policy search, employee lookup, source citations, and ticket creation using FastAPI.
+
+
+
+</td>
+<td width="50%" valign="top">
+
 ### [cognodb-benchmark](https://github.com/buildbyanish/cognodb-benchmark)
 Benchmarking framework for evaluating Cognodb against leading graph databases.
 
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Enterprise-RAG-Q-A-System-Azure-OpenAI-AI-Search](https://github.com/buildbyanish/Enterprise-RAG-Q-A-System-Azure-OpenAI-AI-Search)
@@ -244,8 +254,6 @@ Enterprise RAG Q&A system with Azure OpenAI + Azure AI Search — grounded answe
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [FinGenius-AI-Banking-Knowledge-Assistant](https://github.com/buildbyanish/FinGenius-AI-Banking-Knowledge-Assistant)
@@ -254,6 +262,8 @@ An Agentic AI-powered Banking Knowledge Assistant using LangChain, LangGraph, Cr
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Legaldociq-AI](https://github.com/buildbyanish/Legaldociq-AI)
@@ -262,8 +272,6 @@ Multi-agent contract review assistant (Reviewer -> Risk-Flagger -> Summarizer) t
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mediassist-ai-healthcare-assistant](https://github.com/buildbyanish/mediassist-ai-healthcare-assistant)
@@ -272,6 +280,8 @@ Healthcare Knowledge & Triage Assistant built with RAG (Retrieval-Augmented Gene
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [CrewAI-Research-System](https://github.com/buildbyanish/CrewAI-Research-System)
@@ -280,22 +290,12 @@ A Multi-Agent Research Assistant built with CrewAI, LangChain, Ollama, ChromaDB,
 `Python`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Java-Swing-Player-Management](https://github.com/buildbyanish/Java-Swing-Player-Management)
 A Java Swing-based Player Management System that uses MySQL and JDBC to perform CRUD operations. The application enables users to add, view, update, and delete player records through an intuitive graphical interface, demonstrating desktop application development, database connectivity, and efficient data management.
 
 `Java`
-
-</td>
-<td width="50%" valign="top">
-
-### [Machine-learning-with-block-chain](https://github.com/buildbyanish/Machine-learning-with-block-chain)
-A machine learning project integrated with blockchain technology to ensure secure, transparent, and tamper-proof data management. It combines predictive analytics with decentralized data storage, improving data integrity, trust, and security for real-world applications such as fraud detection, healthcare, and financial systems.
-
-
 
 </td>
 </tr>
