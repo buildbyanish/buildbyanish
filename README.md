@@ -231,9 +231,9 @@ Amazon Web Services
 <td width="50%" valign="top">
 
 ### [smart-helpdesk-agent](https://github.com/buildbyanish/smart-helpdesk-agent)
-AI powered HR and IT helpdesk agent with policy search, employee lookup, source citations, and ticket creation using FastAPI.
+No description yet.
 
-
+`Python`
 
 </td>
 <td width="50%" valign="top">
